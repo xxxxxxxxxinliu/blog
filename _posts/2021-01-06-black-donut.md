@@ -1,20 +1,23 @@
 ---
 layout: post
-title: Black Donut
-subtitle: 
+title: Black Donut - A Thought Experiment
+subtitle: A project for Summa Technologiae with e-flux |
+CONSTRUCTING TIME, REINVENTING NATURE
+By Cássio Figueiredo, Virgilio A. Rivas and Xin Liu
 ---
 
 In the moment we encounter the black box, our point of view is predetermined. There are several possibilities:
+
 1. We are outside the black box (as far as we know) and the box is an independent entity of which the edges are also visible. This is the most classic relationship of the observer and the blackbox, as in the Schrödinger’s cat experiment. We establish an almost confrontational relationship and the observer’s choices is “independent” of the status of the black box. The sense of otherness dominates our sense and assumptions. 
  
 2. We are inside the black box. I have wondered about this possibility. But if so, the blackbox is the world itself, or at least our world. A close example could be our daily experience in social media algorithms: we are the product. Thus instead of confrontation, we might feel more frustration or powerlessness. The fact we are inside renders any of our actions an input, thus produces. 
  
 3. We are outside of the black but we cannot see the edges. In this situation, our position is of question, as we cannot fully understand the shape of the box. Here I propose two possibilities in one shape: Black Donut.
  
+ ![](../assets/autumn.jpg)
  
 Here, from the observer’s point of view, they cannot tell whether they are inside or outside of the donut.
- 
-Thus, the question is: Where are we?
+ Thus, the question is: <span class="color-blue">Where are we?</span>
 
 Imagine we are inside the black box, which, let us also assume, does not permit any form of activity or knowledge, then life inside the black box is an illusion. If we are outside the black box, the situation is quite different: there is fullness of action and energy in it. To this extent, life is a taken for-granted fact outside the black box, in that it does not constitute, say, an epistemic barrier. It does not posit a ‘difference’. Conversely, life inside the black box reverses its constitution from where it is once inside it. The black box will have to allow for the skeptic’s curiosity, wonder, and science; it has to allow for difference, so to speak. Here the black box requires testing, experimentation, or the labor of the negative (in Hegelian terms). Life outside the black box is such that, where the fullness of life is ironically monotonous, human flourishing is reliant on inactivity or the absence of the will to know. Plato’s notion of the city of sows in the Republic comes to mind. Inside the black box is where Plato would find the city of speech or kallipolis, the city that labors and produces science and knowledge. Or rather, a city in which, where life is an imposing illusion, love or eros becomes a passionate test of reality, the passion for pursuing an object or a goal, or the truth behind the veil of appearances. I think we can connect this to Lem’s intellectronics,  the cybernetic complement of Plato’s love of wisdom. It is wisdom that is based on as much uncertainty as knowing certainty. Thus, the paradox of the black box enables us to think of pedagogy as an unironic form of living in and through the black box. It is unironic in the sense that life, or learning how to live, is only possible inside the black box. 
 
