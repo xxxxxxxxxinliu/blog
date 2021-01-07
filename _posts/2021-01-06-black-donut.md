@@ -11,7 +11,9 @@ In the moment we encounter the black box, our point of view is predetermined. Th
 2. We are inside the black box. I have wondered about this possibility. But if so, the blackbox is the world itself, or at least our world. A close example could be our daily experience in social media algorithms: we are the product. Thus instead of confrontation, we might feel more frustration or powerlessness. The fact we are inside renders any of our actions an input, thus produces. 
  
 3. We are outside of the black but we cannot see the edges. In this situation, our position is of question, as we cannot fully understand the shape of the box. Here I propose two possibilities in one shape: Black Donut.
- 
+
+![](../assets/black-donut.png)
+
 Here, from the observer’s point of view, they cannot tell whether they are inside or outside of the donut.
 
 Thus, the question is: Where are we?
